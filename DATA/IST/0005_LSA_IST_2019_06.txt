@@ -1,0 +1,17 @@
+TITLE: Quality requirements challenges in the context of large-scale distributed agile: An empirical study
+
+ABSTRACT:
+Context
+Engineering quality requirements in agile projects does not fit organically with agile methods. Despite the agile community acknowledges this, little empirical evidence has been published on this topic.
+
+Objective
+This exploratory qualitative interview-based study explicates the challenging situations experienced by practitioners in engineering the quality requirements in the context of large-scale distributed agile projects. Moreover, this study describes the practices that agile distributed teams currently use which could contribute by dealing with the identified challenges.
+
+Method
+The challenging situations and possible mitigation practices were studied from the perspective of 17 practitioners from large distributed agile project teams in six organizations in The Netherlands. Qualitative data were collected using semi-structured, open-ended interviews. Qualitative coding techniques were used for data analysis, to identify the challenges of engineering quality requirements, the mechanisms behind the challenges and the practices used that could mitigate the impact of those challenges. Further, by using dialog mapping technique for qualitative data structuring, we have mapped the identified mechanisms and practices to the challenges.
+
+Results
+From the perspective of the participating practitioners, our exploratory study revealed 15 challenges classified in five categories: (1) team coordination and communication, (2) quality assurance, (3) quality requirements elicitation, (4) conceptual challenges, and (5) software architecture. The study has also disclosed 13 mechanisms behind the challenges and 9 practices that could mitigate the impact of those challenges.
+
+Conclusions
+The main contributions of the paper are: (1) the explication of the challenges from practitioners’ perspective and the comparison of our findings with previously published results, (2) the description of the mechanisms behind the challenges, and (3) the identification of the practices currently used by agile teams that could mitigate the impact of the challenges. The findings of this study provide useful input into the process of designing possible solution approaches to overcome the challenges.

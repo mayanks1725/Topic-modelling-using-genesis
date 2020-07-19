@@ -1,0 +1,3 @@
+TITLE: Towards Principles of Large-Scale Agile Development
+
+ABSTRACT: Large projects are increasingly adopting agile development practices, and this raises new challenges for research. The workshop on principles of large-scale agile development focused on central topics in large-scale: the role of architecture, inter-team coordination, portfolio management and scaling agile practices. We propose eight principles for large-scale agile development, and present a revised research agenda.

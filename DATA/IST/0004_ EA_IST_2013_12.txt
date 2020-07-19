@@ -1,0 +1,17 @@
+TITLE: When agile meets the enterprise
+
+ABSTRACT:
+Context
+While renowned agile methods like XP and Scrum were initially intended for projects with small teams, traditional enterprise environments, i.e. environments where plan-driven development is prevalent, have also become attracted by the promises of a faster time to market through agility. Agile software development methods emphasize lightweight software development. Projects within enterprise environments, however, are typically confronted with a large and complex IT landscape, where mission-critical information is at play whose criticality requires prudence regarding design and development. In many an organization, both approaches are used simultaneously.
+
+Objective
+Find out which challenges the co-existence of agile methods and plan-driven development brings, and how organizations deal with those challenges.
+
+Method
+We present a grounded theory of the challenges of using agile methods in traditional enterprise environments, based on a Grounded Theory research involving 21 agile practitioners from two large enterprise organizations in the Netherlands.
+
+Results
+We organized the challenges under two factors: Increased landscape complexity and Lack of business involvement. For both factors, we identify successful mitigation strategies. These mitigation strategies concern the communication between the agile and traditional part of the organization, and the timing of that communication.
+
+Conclusion
+Agile practices can coexist with plan-driven development. One should, however, keep in mind the context and take actions to mitigate the challenges incurred.

@@ -1,0 +1,3 @@
+TITLE: Inter-team Coordination in Large-Scale Agile Development: A Case Study of Three Enabling Mechanisms
+
+ABSTRACT: Agile methods are increasingly used in large development projects, with multiple development teams. A central question is then what is needed to coordinate feature teams efficiently. This study examines three mechanisms for coordination: Shared mental models, communication and trust in a large-scale development project with 12 feature teams running over a four-year period. We analyse the findings in relation to suggested frameworks for large-scale agile development and a theory on coordination, and provide new recommendations for practice and theory.

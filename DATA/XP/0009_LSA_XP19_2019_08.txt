@@ -1,0 +1,4 @@
+TITLE: Technical-, Social- and Process Debt in Large-Scale Agile: An Exploratory Case-Study
+
+ABSTRACT: Large-scale agile projects bring inter-teams interaction challenges. Teams need to be autonomous, but often crosscutting concerns affect many teams. If the teams fail to collaborate on these concerns, the negative effects might hinder agility in the medium and long term. In other words, the organization and the system accumulate debt, on which the teams pay a high interest. Such debt must therefore be prioritized and “repaid” timely. We conducted a case study with interviews, observations and document analysis. Via both team- and large-scale retrospectives we investigated how teams coordinate and discuss Technical-, Social- and Process Debts.
+

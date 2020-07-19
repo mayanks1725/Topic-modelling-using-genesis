@@ -1,0 +1,3 @@
+TITLE: Characteristics and Principles of Scaled Agile
+
+ABSTRACT: The Agile Manifesto and Agile Principles are typically referred to as the definitions of "agile" and "agility". There is research on agile values and agile practises, but how should “Scaled Agility” be defined, and what might be the characteristics and principles of Scaled Agile? This paper examines the characteristics of scaled agile, and the principles that are used to build up such agility. It also gives suggestions as principles upon which Scaled Agility can be built.

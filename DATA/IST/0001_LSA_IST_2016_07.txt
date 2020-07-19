@@ -1,0 +1,12 @@
+TITLE: Artefacts and agile method tailoring in large-scale offshore software development programmes
+
+ABSTRACT:
+Context: Large-scale offshore software development programmes are complex, with challenging deadlines and a high risk of failure. Agile methods are being adopted, despite the challenges of coordinating multiple development teams. Agile processes are tailored to support team coordination. Artefacts are tangible products of the software development process, intended to ensure consistency in the approach of teams on the same development programme.
+
+Objective: This study aims to increase understanding of how development processes are tailored to meet the needs of large-scale offshore software development programmes, by focusing on artefact inventories used in the development process.
+
+Method: A grounded theory approach using 46 practitioner interviews, supplemented with documentary sources and observations, in nine international companies was adopted. The grounded theory concepts of open coding, memoing, constant comparison and saturation were used in data analysis.
+
+Results: The study has identified 25 artefacts, organised into five categories: feature, sprint, release, product and corporate governance. It was discovered that conventional agile artefacts are enriched with artefacts associated with plan-based methods in order to provide governance. The empirical evidence collected in the study has been used to identify a primary owner of each artefact and map each artefact to specific activities within each of the agile roles.
+
+Conclusion: The development programmes in this study create agile and plan-based artefacts to improve compliance with enterprise quality standards and technology strategies, whilst also mitigating risk of failure. Management of these additional artefacts is currently improvised because agile development processes lack corresponding ceremonies.

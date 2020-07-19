@@ -1,0 +1,3 @@
+TITLE: Agile Transformation: A Summary and Research Agenda from the First International Workshop
+
+ABSTRACT: Organisations are up-scaling their use of agile. Agile ways of working are used in larger projects and also in organisational units outside IT. This paper reports on the results of the first international workshop on agile transformation, which aimed to focus research on practice in a field which currently receives great attention. We report on participants’ definitions of agile transformation, summaries of experiences from such transformations, and the challenges that require research attention.

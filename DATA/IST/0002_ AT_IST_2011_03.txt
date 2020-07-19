@@ -1,0 +1,17 @@
+TITLE: Agile methods rapidly replacing traditional methods at Nokia: A survey of opinions on agile transformation
+
+ABSTRACT:
+Context
+Many organizations have started to deploy agile methods, but so far there exist only a few studies on organization-wide transformations. Are agile methods here to stay? Some claim that agile software development methods are in the mainstream adoption phase in the software industry, while others hope that those are a passing fad. The assumption here is that if agile would not provide real improvement, adopters would be eager at first but turn pessimistic after putting it into practice.
+
+Objective
+Despite the growing amount of anecdotal evidence on the success of agile methods across a wide range of different real-life development settings, scientific studies remain scarce. Even less is known about the perception of the impacts of agile transformation when it is deployed in a very large software development environment, and whether agile methods are here to stay. This study aims to fill that gap by providing evidence from a large-scale agile transformation within Nokia. While we have yet to confirm these findings with solid quantitative data, we believe that the perception of the impacts already pinpoints the direction of the impacts of large-scale agile transformation.
+
+Method
+The data were collected using a questionnaire. The population of the study contains more than 1000 respondents in seven different countries in Europe, North America, and Asia.
+
+Results
+The results reveal that most respondents agree on all accounts with the generally claimed benefits of agile methods. These benefits include higher satisfaction, a feeling of effectiveness, increased quality and transparency, increased autonomy and happiness, and earlier detection of defects. Finally, 60% of respondents would not like to return to the old way of working.
+
+Conclusion
+While the perception of the impact of agile methods is predominantly positive, several challenge areas were discovered. However, based on this study, agile methods are here to stay.

@@ -1,0 +1,3 @@
+TITLE: Supporting a Large-Scale Lean and Agile Transformation by Defining Common Values
+
+ABSTRACT: This paper describes how a rapidly growing distributed product development organization at Ericsson used ”Value Workshops” to align the different sites and teams when adopting agile and lean software development. The workshops were held at two main sites, and involved people from four sites. During the workshops, the teams worked on common values: their interpretation and behavioral implications, using a tree metaphor. The workshops were viewed as very valuable in creating a common organizational identity, and it was considered important to continue the work and reinforce the values to make them drive behavior in daily work.

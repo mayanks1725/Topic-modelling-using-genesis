@@ -1,0 +1,3 @@
+TITLE: A Case Study in Agile-at-Scale Delivery
+
+ABSTRACT: Many individuals and teams involved on projects are already using agile development techniques as part of their daily work. However, we have much less experience in how to scale and manage agile practices as part of a concerted effort of improvement across an integrated supply-chain for enterprise software delivery. In this paper we discuss the scalability of agile approaches through a detailed case study in agile adoption. In the context of this example we examine how “agility-at-scale” is applied, describe the key scaling factors and their impact on agility, and review some of the rollout and deployment issues that can limit the adoption of agile approaches in practice.

@@ -1,0 +1,17 @@
+TITLE: Communities of practice in a large distributed agile software development organization – Case Ericsson
+
+ABSTRACT:
+Context
+Communities of practice—groups of experts who share a common interest or topic and collectively want to deepen their knowledge—can be an important part of a successful lean and agile adoption in particular in large organizations.
+
+Objective
+In this paper, we present a study on how a large organization within Ericsson with 400 persons in 40 Scrum teams at three sites adopted the use of Communities of Practice (CoP) as part of their transformation from a traditional plan-driven organization to lean and agile.
+
+Methods
+We collected data by 52 semi-structured interviews on two sites, and longitudinal non-participant observation of the transformation during over 20 site visits over a period of two years.
+
+Results
+The organization had over 20 CoPs, gathering weekly, bi-weekly or on a need basis. CoPs had several purposes including knowledge sharing and learning, coordination, technical work, and organizational development. Examples of CoPs include Feature Coordination CoPs to coordinate between teams working on the same feature, a Coaching CoP to discuss agile implementation challenges and successes and to help lead the organizational continuous improvement, an end-to-end CoP to remove bottlenecks from the flow, and Developers CoPs to share good development practices. Success factors of well-functioning CoPs include having a good topic, passionate leader, proper agenda, decision making authority, open community, supporting tools, suitable rhythm, and cross-site participation when needed. Organizational support include creating a supportive atmosphere and providing a suitable infrastructure for CoPs.
+
+Conclusions
+In the case organization, CoPs were initially used to support the agile transformation, and as part of the distributed Scrum implementation. As the transformation progressed, the CoPs also took on the role of supporting continuous organizational improvements. CoPs became a central mechanism behind the success of the large-scale agile implementation in the case organization that helped mitigate some of the most pressing problems of the agile transformation.

@@ -1,0 +1,3 @@
+TITLE: Tech Challenges in a Large-Scale Agile Project
+
+ABSTRACT: A five year, 25 man java project effort, that started with a waterfall-like methodology and that adopted Scrum after less than a year, has been concluded. We present three key technical challenges, briefly analyze their consequences and discuss the solutions we adopted. Firstly, we discuss how we modularized our architecture, module delineation principles, coupling and the trade-offs of abstraction. Then we discuss testing environments, their automation and relation to branches and the effect on customer involvement and feedback. Finally we discuss the benefits and disadvantages of representing domain knowledge declaratively. For all three challenges we discuss how the project’s agility was affected.

@@ -1,0 +1,6 @@
+﻿TITLE: Introducing Agile Methods in a Large Software Development Team: The Developers Changing Perspective
+
+ABSTRACT:NW Soft Solutions Ltd. (a pseudonym) is a large software development unit that develops large-scale network centric software solutions. NW Soft Solutions Ltd decided to adopt an agile development methodology. 
+Martin Fowler in his article “The New Methodology” [1], states that in his opinion “Since agile methods are so fundamentally people-oriented, it’s essential that you start with a team that wants to try and work in an agile way”.
+ Using NW Soft Solutions as a case study,
+ this paper sets out to show how the developers attitudes towards agile methods change during the adoption phase. We see a shift in focus from agile practices at a superficial level to the core values that underpin agile methods.

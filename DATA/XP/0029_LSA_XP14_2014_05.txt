@@ -1,0 +1,5 @@
+TITLE: Industrial Challenges of Scaling Agile in Mass-Produced Embedded Systems
+
+ABSTRACT: When individual teams in mechatronic organizations attempt to adopt agile software practices, these practices tend to only affect modules or sub-systems. The short iterations on team level do not lead to short lead-times in launching new or updated products since the overall R&D approach on an organization level is still governed by an overall stage gate or single cycle V-model.
+
+This paper identifies challenges for future research on how to combine the predictability and planning desired of mechanical manufacturing with the dynamic capabilities of modern agile software development. Scaling agile in this context requires an expansion in two dimensions: First, scaling the number of involved teams. Second, traversing necessary systems engineering activities in each sprint due to the co-dependency of software and hardware development.
